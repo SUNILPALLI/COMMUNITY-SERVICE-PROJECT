@@ -1,0 +1,55 @@
+.menu{
+    margin-top:0px;
+    height: 60px;
+    background-color: rgb(51, 156, 70);
+    
+}
+
+.menu ul li{
+    list-style-type: none;
+    float:left;
+    padding: 10px;
+    
+
+}
+.menu ul li a{
+    
+    color: rgb(243, 234, 244);
+    text-decoration: none;
+    padding: 7px;
+    display: block;
+    font-size: 15px;
+    border: 1px solid rgb(247, 228, 228);
+    border-radius: 10px;
+    
+}
+#l{
+    padding-left: 40px;
+    padding-right: 40px;
+    
+    
+}
+button{
+background-color: black;
+border-radius: 10px;
+}
+button a{
+    text-decoration: none;
+    color: wheat;
+    
+}
+.mater{
+    color: black;
+    padding: 15px;
+    
+}
+.mater img{
+    width: 25px;
+}
+
+.reg{
+      background-color: rgb(150, 23, 234);
+      padding-left: 10px;
+      padding-top: none;
+      color:white;
+}
